@@ -1,0 +1,42 @@
+export const Products = [
+  {
+    id: 1,
+    marca: "Axton",
+    nome: "Argamassa Colante Multiuso ACIII Interno/Externo 20kg Cinza",
+    preco: "42,90",
+    unidade: "cada",
+    tag: "Exclusivo",
+    avaliacao: 4.8,
+    img: "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?w=300&q=80", // Placeholder realista
+  },
+  {
+    id: 2,
+    marca: "Artens",
+    nome: "Piso Laminado Click Elmo Ravena 136x21,7cm m²",
+    preco: "62,90",
+    unidade: "m²",
+    tag: "Mais Vendido",
+    avaliacao: 4.6,
+    img: "https://images.unsplash.com/photo-1581858726788-75bc0f6a952d?w=300&q=80",
+  },
+  {
+    id: 3,
+    marca: "Naterial",
+    nome: "Churrasqueira Centaurus a Bafo Carvão 108x112cm Beta II",
+    preco: "1.599,00",
+    unidade: "cada",
+    tag: "Oferta",
+    avaliacao: 4.9,
+    img: "https://images.unsplash.com/photo-1555507036-ab1f4038808a?w=300&q=80",
+  },
+  {
+    id: 4,
+    marca: "Luxens",
+    nome: "Tinta Emborrachada Fosco Standard Externo Elefante 20Kg",
+    preco: "369,90",
+    unidade: "cada",
+    tag: "Frete Grátis",
+    avaliacao: 4.7,
+    img: "https://images.unsplash.com/photo-1562259949-e8e7689d7828?w=300&q=80",
+  },
+];
